@@ -36,6 +36,8 @@ HSSで使うsymbolの暫定メモです。
 
 再接続によって、接続可能領域内の文脈や意味が再び広がること。
 
+---
+
 ## Group 2: secondary structural symbols
 
 ### 固定化 / fixation（仮）
