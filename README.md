@@ -61,7 +61,7 @@ HSSの出発点には、以下の仮説があります。
 
 ## Core Symbols
 
-HSSでは、以下のsymbolを中心概念として扱います。
+HSSでは、以下のsymbolを中心に概念として扱います。
 
 - Flow
 - symbol
