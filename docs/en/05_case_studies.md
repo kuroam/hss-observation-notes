@@ -154,11 +154,11 @@ For that reason, the English version was re-expanded by keeping `Shiwa` as a sou
 
 In HSS, this change is observed not as a mere translation correction, but as the following connection structures:
 
-* Japanese-side layered history / stratified history is compressed through English translation.
-* The term is nearly fixed once into the existing English word `creases`.
-* The review reconnects the nearly lost connection of Shiwa.
-* By preserving the source-derived symbol as `Shiwa`, Blue residuals are maintained.
-* The defensive wording in the README is re-expanded into a description that shows “what HSS is” for English readers.
+- Japanese-side layered history / stratified history is compressed through English translation.
+- The term is nearly fixed once into the existing English word `creases`.
+- The review reconnects the nearly lost connection of Shiwa.
+- By preserving the source-derived symbol as `Shiwa`, Blue residuals are maintained.
+- The defensive wording in the README is re-expanded into a description that shows “what HSS is” for English readers.
 
 In the editing process using Codex, branch drift, conflicts, and environment-level fetch failures were also observed.
 
