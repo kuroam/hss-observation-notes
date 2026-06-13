@@ -126,7 +126,6 @@ HSSでは、以下を重視します。
 | [docs/05_case_studies.md](docs/05_case_studies.md) | ケーススタディ候補 |
 | [docs/06_scope_and_author_notes.md](docs/06_scope_and_author_notes.md) | 観測範囲、予約層、説明力と真理性、作者コメント |
 | [docs/07_observation_template.md](docs/07_observation_template.md) | HSSを軽く適用するための観測テンプレート |
-| [docs/08_ai_collaboration_observation.md](docs/08_ai_collaboration_observation.md) | AI協働によるHSS文書化プロセスの観測メモ |
 
 ---
 
