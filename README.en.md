@@ -41,3 +41,4 @@ For scope boundaries, reserved layers, explanatory power, truth-value, and autho
 - Market optimization: [docs/en/04_market_optimization.md](docs/en/04_market_optimization.md)
 - Case studies: [docs/en/05_case_studies.md](docs/en/05_case_studies.md)
 - Observation template: [docs/en/07_observation_template.md](docs/en/07_observation_template.md)
+- AI collaboration observation: [docs/en/08_ai_collaboration_observation.md](docs/en/08_ai_collaboration_observation.md)
