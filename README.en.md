@@ -40,3 +40,4 @@ For scope boundaries, reserved layers, explanatory power, truth-value, and autho
 - Fixed and Blue residuals: [docs/en/03_fixed_and_blue_residuals.md](docs/en/03_fixed_and_blue_residuals.md)
 - Market optimization: [docs/en/04_market_optimization.md](docs/en/04_market_optimization.md)
 - Case studies: [docs/en/05_case_studies.md](docs/en/05_case_studies.md)
+- Observation template: [docs/en/07_observation_template.md](docs/en/07_observation_template.md)
