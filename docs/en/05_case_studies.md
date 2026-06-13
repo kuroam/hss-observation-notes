@@ -132,20 +132,6 @@ The issue here is not whether audits or best practices themselves are good or ba
 
 Rather, this observes what kinds of structural changes may occur when the question of which connection route a control is meant to protect is lost.
 
-## Meta-Observation Examples
-
-### HSS English Translation Process and AI Collaboration
-
-The process of translating HSS itself into English, and reviewing and revising it through human-AI collaboration, can also be treated as an observation target of HSS.
-
-What is observed here is not proof that HSS is correct.
-
-It is a meta-observation example for seeing, during translation, review, Codex-based revision, and GitHub PR operations, which connections were compressed, which symbols became fixed, which Shiwa or Blue residuals remained, and which parts were reconnected or re-expanded.
-
-For the detailed observation-template application, see [`docs/en/08_ai_collaboration_observation.md`](08_ai_collaboration_observation.md).
-
-This section is treated not as self-proof of HSS, but as a route from case studies to the detailed observation memo.
-
 ## Treatment
 
 These examples are not for proving HSS.
