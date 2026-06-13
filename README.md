@@ -4,6 +4,8 @@
 
 ## HSS（High-speed Society Structure）
 
+English working version: [README.en.md](README.en.md)
+
 このリポジトリにおけるHSSは、High-speed Society Structure の略称です。
 心理学上の High Sensation Seeking などの人格特性分類を指すものではありません。
 
