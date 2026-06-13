@@ -4,6 +4,9 @@
 
 ## HSS（High-speed Society Structure）
 
+このリポジトリにおけるHSSは、High-speed Society Structure の略称です。
+心理学上の High Sensation Seeking などの人格特性分類を指すものではありません。
+
 HSSは、社会的な継続接続による文化や関係性の変化を、動的に観測するための構造メモです。
 固定化された理論ではなく、接続構造を観測するためのPoC（接続構造観測OS）として扱います。
 
