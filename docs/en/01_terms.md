@@ -123,6 +123,6 @@ It becomes an observation target when only positive feedback remains strong in s
 
 ### 目的関数の捕獲 / objective function capture（provisional）
 
-A state in which something one had thought was one’s own objective is, in practice, reconstructed along the objective function of an external system, platform, evaluation system, market indicator, or similar structure.
+A state in which what an individual or organization believed to be its own objective is, in practice, reshaped according to the objective function of an external system, such as a platform, evaluation system, market indicator, or similar structure.
 
-In HSS, this is observed not as a denial of free will, but as a phenomenon in which initiative over routing is externalized.
+In HSS, this is not treated as a denial of free will. It is observed as a phenomenon in which initiative over routing is shifted outward, away from the original actor.
