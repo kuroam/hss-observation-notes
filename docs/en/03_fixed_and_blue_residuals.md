@@ -2,8 +2,8 @@
 
 This memo treats **fixation** and **Blue residuals** in HSS as observation targets within a connection structure.
 
-Fixation is not treated simply as harmful. It may also support high-speed circulation and low-cost sharing.
-At the same time, the room that does not fully fix, and the possibility of reconnectability, are also treated as observation targets in relation to cultural formation and layered history / stratified history.
+Fixation may be observed as a structure that supports high-speed circulation and low-cost sharing.
+At the same time, room that remains unfixed, and the possibility of reconnectability, are also treated as observation targets in relation to cultural formation and layered history / stratified history.
 
 ## Fixation
 
