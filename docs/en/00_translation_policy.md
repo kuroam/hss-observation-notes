@@ -38,9 +38,12 @@ HSS should not be read as:
 | 接続可能なズレ | reconnectable difference |
 | 積層history | layered history / stratified history (provisional) |
 | 積層ルーティング | stratified routing |
-| シワ | creases |
+| シワ | Shiwa (lived creases / frictional traces) |
 | 予約層 | reserved layers |
 | 揺り戻し欠損 | feedback deficit |
 | 目的関数の捕獲 | objective function capture |
+
+`Shiwa` is kept as a source-derived core term because no single English word fully captures the Japanese nuance.
+`creases`, `traces`, and `frictional traces` are explanatory glosses, not complete replacements.
 
 Terms such as Flow, symbol, Blue residuals, and 積層history currently preserve the provisional notation of the Japanese source.

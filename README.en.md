@@ -16,18 +16,14 @@ HSS is treated as a PoC (proof-of-concept observation model), not as a completed
 
 ## Important stance
 
-HSS is not:
+HSS is a provisional structural observation memo and a coarse-grained structural scanner.
 
-- a completed theory
-- a doctrine
-- a personality typology
-- a theory of human nature
-- an ethical system
-- a theory of emotion
-- a theory of neurophysiology
-- a theory of AI consciousness
+It observes patterns of connection, routing, compression, feedback, fixation, and re-expansion across culture, relationships, creative works, markets, and symbols.
+
+It is not intended as a personality typology, doctrine, theory of human nature, ethical system, emotion theory, neurophysiology theory, or theory of AI consciousness.
 
 At the current stage, HSS mainly observes connection structures around L1–L6.
+
 L7 and L8 are treated as reserved layers.
 Emotion, bodily desire, and neurophysiological response are not formalized in the current model.
 

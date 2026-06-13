@@ -99,17 +99,17 @@ A connection route formed through experience, memory, culture, relationships, fa
 
 It is not merely the shortest route, an efficient route, or an optimization route.
 
-It is treated as a route containing “creases” that connects from the past to the present, and from the present to the future.
+It is treated as a route containing `Shiwa` — lived creases or frictional traces — that connects from the past to the present, and from the present to the future.
 
 ---
 
-### シワ / creases（provisional）
+### シワ / Shiwa（lived creases / frictional traces）（provisional）
 
-Friction or traces on a connection route that arise from layered experience, memory, discomfort, failures, and continuous connection.
+Shiwa refers to frictional traces on a connection route that arise from layered experience, memory, discomfort, failures, and continuous connection.
 
-They are treated not merely as noise, but as distinctive trajectories connected from the past to the present.
+It is treated not merely as noise, but as a distinctive trajectory connected from the past to the present.
 
-In HSS, they are provisionally placed as important observation targets that may be easily stripped away by optimization or short-term rewards, while supporting layered history / stratified history (provisional) and stratified routing.
+In HSS, Shiwa is provisionally placed as an important observation target that may be stripped away by optimization or short-term rewards, while supporting layered history / stratified history and stratified routing.
 
 ---
 
