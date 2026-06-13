@@ -61,3 +61,9 @@ They are provisionally placed as connection areas that tend to be observed while
 
 This diagram is not intended to complete an explanation.
 It is a light working diagram for checking how connection, fixation, margin, and re-expansion may appear within the observation target.
+This file is planned as a working English translation/adaptation of the Japanese source:
+
+- Japanese source: [../02_core_model.md](../02_core_model.md)
+
+The Japanese version is the canonical source.
+English terminology is provisional.
