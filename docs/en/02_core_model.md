@@ -25,7 +25,7 @@ This document deals only with the cycle of connection, compression, reconnection
 
 ```mermaid
 flowchart LR
-  A[Continuous connection] --> B[Layered history / stratified history]
+  A[Continuous connection] --> B[Layered history]
   B --> C[Compressed symbol]
   C --> D[Reconnection]
   D --> E[Re-expansion]
