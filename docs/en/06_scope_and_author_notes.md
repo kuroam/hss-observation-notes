@@ -45,7 +45,7 @@ These include:
 - optimization
 - compression
 - fixed symbol circulation
-- layered history
+- layered history / stratified history
 - stratified routing
 - feedback deficit
 - objective function capture
@@ -161,7 +161,7 @@ It is not merely an efficient route.
 
 It is not merely a short-term optimization route.
 
-HSS treats it as a stratified route connected from the past to the present, and from the present to the future.
+HSS treats it as a stratified route that may connect from the past to the present, and from the present to the future.
 
 HSS observes the possibility that this stratified routing may be weakened, compressed, captured, or cut off by short-term rewards, platform indicators, market optimization, synchronization pressure, fixed symbol circulation, and related forces.
 

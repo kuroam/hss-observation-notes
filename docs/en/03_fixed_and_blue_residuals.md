@@ -1,4 +1,4 @@
-# 03. Fixation and Blue Residuals
+# 03. Fixation and Blue residuals
 
 This memo treats **fixation** and **Blue residuals** in HSS as observation targets within a connection structure.
 
@@ -21,7 +21,7 @@ At the same time, it may also appear in the following ways.
 - Reinterpretation may become less likely to occur.
 - It may become harder to expand into different connections.
 
-## Blue Residuals
+## Blue residuals
 
 Blue residuals, provisionally treated as a state of maintaining unconverged connections, refer to a state that maintains the spread of connection or reinterpretation and leaves room for interpretation or non-convergence.
 
