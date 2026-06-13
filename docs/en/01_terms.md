@@ -126,3 +126,9 @@ It becomes an observation target when only positive feedback remains strong in s
 A state in which something one had thought was one’s own objective is, in practice, reconstructed along the objective function of an external system, platform, evaluation system, market indicator, or similar structure.
 
 In HSS, this is observed not as a denial of free will, but as a phenomenon in which initiative over routing is externalized.
+This file is planned as a working English translation/adaptation of the Japanese source:
+
+- Japanese source: [../01_terms.md](../01_terms.md)
+
+The Japanese version is the canonical source.
+English terminology is provisional.
