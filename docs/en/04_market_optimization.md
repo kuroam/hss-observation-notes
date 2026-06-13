@@ -1,9 +1,8 @@
 # 04. Market Optimization
 
-This memo treats high-speed circulation structures in short-cycle markets, and their relationship with cultural formation and layered history / stratified history, as observation targets.
+This memo treats not markets or optimization themselves, but high-speed circulation structures in short-cycle markets and their relationship with cultural formation and layered history / stratified history, as observation targets.
 
-What is addressed here is not the good or bad of markets or optimization themselves.
-Instead, this memo lightly observes relationships such as the following as connection structures.
+This memo lightly observes relationships such as the following as connection structures.
 
 - High-speed recursion
 - Fixed symbol circulation
@@ -43,9 +42,9 @@ For this reason, when states such as the following become biased, their possible
 
 ## Overemphasis
 
-What is treated as a concern here is not speed or optimization itself.
+Here, the observation target is not speed or optimization itself, but how connection structures appear to change when an overemphasis on high-speed circulation of fixed symbols occurs.
 
-Rather, properties such as the following have significant rationality.
+The following properties may be observed as structures that accelerate connection formation.
 
 - High-speed sharing
 - Recursiveness
@@ -69,9 +68,7 @@ In this case, while short-term rewards and platform indicators are strengthened,
 
 In HSS, this state is provisionally treated as a “feedback deficit.”
 
-This is not a concept for treating recognition or market evaluation as evil.
-
-Rather, while acknowledging the rationality of short-term rewards, this memo observes which connection routes become strengthened and which connection routes may be weakened.
+Here, this memo observes not recognition or market evaluation themselves, but how short-term rewards and indicators appear to strengthen some connection routes and weaken others.
 
 ## Relationship with Objective Function Capture
 
