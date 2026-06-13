@@ -11,7 +11,7 @@ It is also not a diagnosis or scoring of AI collaboration.
 ## 0. Observation Target
 
 - Target: the collaboration process of creating, translating, reviewing, and revising HSS documentation using ChatGPT, Gemini, Codex, and GitHub PR operations.
-- Scope to observe: documentation in the HSS repo, English translation, review, PRs, branch drift, and revision reflection.
+- Scope to observe: documentation in the HSS repo, English translation, review, PRs, branch drift, and applying revisions.
 - Scope not to observe: AI consciousness theory, personality theory, human essence theory, or moral judgment about AI.
 - What this observation will not conclude: that HSS is correct, or that AI collaboration is universal or omnipotent.
 
@@ -33,14 +33,14 @@ The items listed here are not treated as final truths. They are treated as symbo
 
 ## 3. Layered History / Stratified History
 
-- What accumulated over time: past conversations, creative work, work experience, music, light-novel work, security work, and AI collaboration experience.
+- What accumulated over time: past conversations, creative work, work experience, music, light novel writing, security work, and AI collaboration experience.
 - What remained as memory, experience, context, and relationship: HSS terms were not merely defined; they were layered little by little through repeated conversation and revision.
 - Which symbols compressed them: HSS, Shiwa, Blue residuals, feedback deficit, objective function capture, and canonical source.
 - What may be lost through compression: English translation compressed part of the Japanese nuance, conversation order, and points where discomfort appeared.
 
 ## 4. Shiwa
 
-- Traces arising from experience, failure, discomfort, friction, and continued connection: the friction and traces not held by `creases` were reconnected through review as `Shiwa`.
+- Traces arising from experience, failure, discomfort, friction, and continuous connection: the friction and traces not held by `creases` were reconnected through review as `Shiwa`.
 - Shiwa that may be shaved away by optimization or short-term rewards: polished English wording, concise README text, and smooth PR completion may hide workflow friction.
 - Shiwa that still remains: branch conflicts, Codex fetch failures, and repeated PR attempts can also be seen as workflow Shiwa.
 - Connection routes supported by that Shiwa: routes for looking back later at where connection shifted and what judgments were needed.
@@ -52,9 +52,9 @@ However, this does not romanticize operational mistakes themselves. It stays wit
 - Things that are stabilizing: `HSS = High-speed Society Structure`, `Japanese documentation is canonical`, `Shiwa`, `feedback deficit`, and `objective function capture`.
 - Things made easier to share and reuse at high speed through fixation: paths from the README to each document, PR units for review, and the explanatory skeleton of the English version.
 - Connections narrowed by fixation: Japanese fluctuation, nuance, and trial-and-error in conversation may fit too tightly into short English expressions.
-- Margins that still remain: Flow / symbol / 積層history were not fully closed into English-only terms, but were left as provisional notations.
+- Margins that still remain: Flow, symbol, and 積層history (layered history / stratified history) were not fully closed into English-only terms, but were left as provisional notations.
 - Things observable as Blue residuals: defensive README wording was reduced while safety notes remained in scope notes.
-- Connectable gaps: gaps between wording that is easy to read in English and friction that the Japanese side may want to keep.
+- Reconnectable differences: gaps between wording that is easy to read in English and friction that the Japanese side may want to keep.
 
 ## 6. Feedback Deficit
 
@@ -62,7 +62,7 @@ However, this does not romanticize operational mistakes themselves. It stays wit
 - Places where this weakens: moments when AI revisions accumulate quickly, and moments when multiple PRs or branches run in parallel.
 - Places where only positive feedback may remain: places where the sense of achievement continues, such as “the fix was made,” “the PR was created,” or “the README became clean.”
 - Things reinforced by short-term rewards or indicators: fast reflection, clean diffs, and quickly fixing only the points raised in review.
-- Layered history or layered routing that is becoming thinner: when branch drift or incorrect reflection occurs, it becomes harder to see which conversation or judgment a change came from.
+- Layered history / stratified history or stratified routing that is becoming thinner: when branch drift or incorrect reflection occurs, it becomes harder to see which conversation or judgment a change came from.
 
 In this case, review and PR confirmation appear to have helped feedback work to some extent.
 
