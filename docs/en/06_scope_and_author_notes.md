@@ -153,7 +153,7 @@ Rather, it is a structural memo for observing where the connection routes that s
 
 ## 8. Stratified routing
 
-Stratified routing refers to connection routes that include “creases” formed by experience, memory, culture, civilization, relationships, failures, discomfort, and continuous connection.
+Stratified routing refers to connection routes that include `Shiwa` — lived creases or frictional traces — formed by experience, memory, culture, civilization, relationships, failures, discomfort, and continuous connection.
 
 It is not merely the shortest route.
 
