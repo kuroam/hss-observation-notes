@@ -115,7 +115,7 @@ HSSでは、以下を重視します。
 | ファイル | 内容 |
 | --- | --- |
 | [docs/01_terms.md](docs/01_terms.md) | 基本用語と暫定定義 |
-| [docs/02_core_model.md](docs/02_core_model.md) | L1〜L6の中核モデル |
+| [docs/02_core_model.md](docs/02_core_model.md) | L4〜L6の中核候補と接続サイクル |
 | [docs/03_fixed_and_blue_residuals.md](docs/03_fixed_and_blue_residuals.md) | 固定構造とBlue residualsの観測メモ |
 | [docs/04_market_optimization.md](docs/04_market_optimization.md) | 市場最適化との関係メモ |
 | [docs/05_case_studies.md](docs/05_case_studies.md) | ケーススタディ候補 |
