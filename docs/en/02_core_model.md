@@ -1,21 +1,17 @@
 # 02. Core Model
 
-This is a working English translation/adaptation of the Japanese source:
+This memo provisionally places the core candidate of HSS as the **L4–L6 connection cycle**.
+It is not a fixed theory, but an observational model for seeing how continuous connection may become layered, compressed, reconnected, and re-expanded.
 
-- Japanese source: [../02_core_model.md](../02_core_model.md)
-
-The Japanese version is canonical.
+The Japanese source is canonical.
 English terminology is provisional.
 
-In this memo, the core candidate of HSS is provisionally placed as the **L4–L6 Connection Cycle**.
-It is not a fixed theory, but an observation model for seeing how continuous connection may become layered, compressed, reconnected, and re-expanded.
-
-L1–L3 are not concretely specified in the current version.
+L1–L3 are not concretely defined in the current version.
 L7 and L8 are treated as reserved layers at the current stage.
 
-L1–L3 may relate to lower foundations that allow connections to form, such as media, institutions, physical infrastructure, language foundations, and platform environments.
+L1–L3 may relate to lower foundations that allow connections to take shape, such as media, institutions, physical infrastructure, language foundations, or platform environments.
 
-However, in the current version of HSS, these are not treated as explicit layers.
+However, in the current version of HSS, these are not defined as explicit layers.
 
 This is to avoid turning HSS into an overly fixed layered model.
 
@@ -42,8 +38,8 @@ flowchart LR
 
 ## How to read this
 
-- **L4**: A connection area where continuous connection and layered history / stratified history begin to be observed.
-- **L5**: An observation point where something may be compressed as a symbol or become fixed.
+- **L4**: A connection area where continuous connection and layered history / stratified history begin to become visible.
+- **L5**: An observation point where something may be compressed as a symbol or may become fixed.
 - **L6**: A cyclic point where connection begins to move again through reconnection and re-expansion.
 
 L4–L6 are not fixed stages.
@@ -55,15 +51,9 @@ They are provisionally placed as connection areas that tend to be observed while
 - Layered connections may be compressed as symbols.
 - A compressed symbol may become a trigger for reconnection.
 - When reconnection occurs, meaning or context may re-expand.
-- Even when fixation occurs, if Blue residuals remain, reconnectability may be maintained.
+- Even if fixation occurs, when Blue residuals remain, reconnectability may be maintained.
 
 ## Treatment
 
 This diagram is not intended to complete an explanation.
 It is a light working diagram for checking how connection, fixation, margin, and re-expansion may appear within the observation target.
-This file is planned as a working English translation/adaptation of the Japanese source:
-
-- Japanese source: [../02_core_model.md](../02_core_model.md)
-
-The Japanese version is the canonical source.
-English terminology is provisional.
