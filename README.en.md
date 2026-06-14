@@ -18,7 +18,9 @@ HSS is treated as a PoC (proof-of-concept observation model), not as a completed
 
 HSS was not constructed by referring to existing theories, studies, or papers.
 
-The initial concepts, core vocabulary, and observation axes of HSS were formed independently through creative work, operations, organizations, culture, and dialogue with AI.
+The initial concepts, core vocabulary, and observation axes of HSS were formed as an original observation model through creative work, operations, organizations, culture, and dialogue with AI.
+
+Here, “original” means that HSS was not designed from existing theories as its starting point; it does not claim to stand above, replace, or integrate those theories.
 
 Therefore, HSS is not intended as a derivative, application, summary, or integration of any specific academic theory.
 
