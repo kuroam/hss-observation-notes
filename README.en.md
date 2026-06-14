@@ -14,6 +14,18 @@ HSS is a provisional structural observation memo for observing how culture, rela
 
 HSS is treated as a PoC (proof-of-concept observation model), not as a completed theory.
 
+## Model positioning
+
+HSS was not constructed by referring to existing theories, studies, or papers.
+
+The initial concepts, core vocabulary, and observation axes of HSS were formed independently through creative work, operations, organizations, culture, and dialogue with AI.
+
+Therefore, HSS is not intended as a derivative, application, summary, or integration of any specific academic theory.
+
+After HSS had been formed as an observation model, we noticed that some existing fields have partially similar concerns or can serve as auxiliary connection points.
+
+These fields are not sources, foundations, or justifications for HSS. They are organized in [Related fields](docs/en/08_related_fields.md) as auxiliary lines for readers who want to connect HSS to existing domains.
+
 ## Important stance
 
 HSS is a provisional structural observation memo and a coarse-grained structural scanner.
@@ -41,3 +53,4 @@ For scope boundaries, reserved layers, explanatory power, truth-value, and autho
 - Market optimization: [docs/en/04_market_optimization.md](docs/en/04_market_optimization.md)
 - Case studies: [docs/en/05_case_studies.md](docs/en/05_case_studies.md)
 - Observation template: [docs/en/07_observation_template.md](docs/en/07_observation_template.md)
+- Related fields: [docs/en/08_related_fields.md](docs/en/08_related_fields.md)
