@@ -28,6 +28,18 @@ HSSの初期概念、主要語彙、観測軸は、創作、運用、組織、�
 
 ---
 
+## 観測レポート
+
+HSSを用いた個別の観測レポートは、別リポジトリで管理します。
+
+- HSS observation reports: https://github.com/kuroam/hss-observation-reports
+
+このリポジトリでは、HSS本体の概念、用語、観測軸を管理します。
+
+観測レポート側では、HSSを仮の観測軸として用いた個別事例を管理します。
+
+---
+
 ## 概要
 
 HSSは、文化・関係性・創作・市場・symbolなどに見られる、
@@ -141,6 +153,18 @@ HSSでは、以下を重視します。
 | [docs/06_scope_and_author_notes.md](docs/06_scope_and_author_notes.md) | 観測範囲、予約層、説明力と真理性、作者コメント |
 | [docs/07_observation_template.md](docs/07_observation_template.md) | HSSを軽く適用するための観測テンプレート |
 | [docs/08_related_fields.md](docs/08_related_fields.md) | 近接領域との関係 |
+
+---
+
+## 権利・ライセンスについて
+
+Copyright (c) 2026 kuro amak.
+
+特に明記がない限り、すべての権利を留保します。
+
+このリポジトリは閲覧・参照のために公開しています。
+
+明示的な許可なく、内容の複製、再配布、改変、翻訳、派生物の作成を許可するものではありません。
 
 ---
 
