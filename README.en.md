@@ -28,6 +28,16 @@ After HSS had been formed as an observation model, we noticed that some existing
 
 These fields are not sources, foundations, or justifications for HSS. They are organized in [Related fields](docs/en/08_related_fields.md) as auxiliary lines for readers who want to connect HSS to existing domains.
 
+## Observation Reports
+
+Applied HSS observation reports are maintained in a separate repository.
+
+- HSS observation reports: https://github.com/kuroam/hss-observation-reports
+
+This repository manages the core HSS concepts, terminology, and observation axes.
+
+The observation reports repository manages individual cases where HSS is applied as a tentative observation axis.
+
 ## Important stance
 
 HSS is a provisional structural observation memo and a coarse-grained structural scanner.
@@ -56,3 +66,13 @@ For scope boundaries, reserved layers, explanatory power, truth-value, and autho
 - Case studies: [docs/en/05_case_studies.md](docs/en/05_case_studies.md)
 - Observation template: [docs/en/07_observation_template.md](docs/en/07_observation_template.md)
 - Related fields: [docs/en/08_related_fields.md](docs/en/08_related_fields.md)
+
+## Rights and License
+
+Copyright (c) 2026 kuro amak.
+
+All rights reserved unless otherwise stated.
+
+This repository is published for reading and reference.
+
+No permission is granted for copying, redistributing, modifying, translating, or creating derivative works from its contents without explicit permission.
