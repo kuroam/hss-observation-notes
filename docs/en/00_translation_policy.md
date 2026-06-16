@@ -40,6 +40,7 @@ HSS should not be read as:
 | 積層ルーティング | stratified routing |
 | シワ | Shiwa (lived creases / frictional traces) |
 | 予約層 | reserved layers |
+| 同期圧 | synchronization pressure |
 | 揺り戻し欠損 | feedback deficit |
 | 伝票の束 | invoice bundle |
 | 目的関数の捕獲 | objective function capture |
