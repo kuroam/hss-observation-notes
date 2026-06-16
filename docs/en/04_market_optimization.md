@@ -1,6 +1,6 @@
 # 04. Market Optimization
 
-This memo treats not markets or optimization themselves, but high-speed circulation structures in short-cycle markets and their relationship with cultural formation and layered history / stratified history, as observation targets.
+This memo treats not markets or optimization themselves, but high-speed circulation structures in short-cycle markets and their relationship with cultural formation and layered history, as observation targets.
 
 This memo lightly observes relationships such as the following as connection structures.
 
@@ -34,7 +34,7 @@ As a result, high-speed sharing, reusability, and low-cost circulation may be st
 
 In HSS, cultural formation is provisionally placed as a process in which connections and Flow accumulate over time.
 
-For this reason, when states such as the following become biased, their possible effects on layered history / stratified history formation are treated as observation targets.
+For this reason, when states such as the following become biased, their possible effects on layered history formation are treated as observation targets.
 
 - High-speed fixed symbol circulation
 - Shrinking of reconnectable areas
@@ -64,7 +64,7 @@ For example, food, money, power, and bodily burden may generate some kind of reb
 
 By contrast, recognition, views, followers, and short-term reactions may more easily continue as positive feedback, and rebound or corrective feedback may be harder to observe.
 
-In this case, while short-term rewards and platform indicators are strengthened, layered history / stratified history and stratified routing may become thinner.
+In this case, while short-term rewards and platform indicators are strengthened, layered history and stratified routing may become thinner.
 
 In HSS, this state is provisionally treated as a “feedback deficit.”
 
@@ -88,4 +88,4 @@ Here, the two are observed as structures that may easily operate together in sho
 
 This memo is not intended to define markets or culture.
 
-It is a light observational memo for organizing how high-speed circulation structures and layered history / stratified history formation may appear as connection structures.
+It is a light observational memo for organizing how high-speed circulation structures and layered history formation may appear as connection structures.

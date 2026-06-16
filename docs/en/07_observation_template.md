@@ -4,7 +4,7 @@ This memo is a template for lightly observing a target through HSS.
 
 It is not for diagnosing, scoring, or making definitive judgments about the target.
 
-It is a working memo for organizing how connection structures, fixation, reconnection, re-expansion, layered history / stratified history, Shiwa, Blue residuals, feedback deficit, objective function capture, and related elements may appear.
+It is a working memo for organizing how connection structures, fixation, reconnection, re-expansion, layered history, Shiwa, Blue residuals, feedback deficit, objective function capture, and related elements may appear.
 
 The Japanese source is canonical.
 English terminology is provisional.

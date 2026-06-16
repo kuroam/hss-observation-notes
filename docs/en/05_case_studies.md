@@ -11,7 +11,7 @@ English terminology is provisional, and the Japanese source remains canonical.
 
 ### A Regular Café
 
-In a café visited over a long period of time, the following kinds of things may accumulate as layered history / stratified history:
+In a café visited over a long period of time, the following kinds of things may accumulate as layered history:
 
 - Smell
 - Sound
@@ -51,7 +51,7 @@ On TikTok, YouTube, social media, and similar platforms, view counts, audience r
 
 Within the platform, these indicators are rational axes of evaluation.
 
-At the same time, they do not necessarily always align with creative work, culture formation, layered history / stratified history, or stratified routing.
+At the same time, they do not necessarily always align with creative work, culture formation, layered history, or stratified routing.
 
 In HSS, such a state may be observed as objective function capture by platform indicators, or as compression of stratified routing.
 
@@ -88,7 +88,7 @@ This is treated as an observation example of reconnectable difference.
 
 An expression that is somewhat strange, but can return to emotion or memory, may create a new difference while keeping a connection area.
 
-Rather than a strong one-shot effect, layered history / stratified history may form as the expression is connected to repeatedly.
+Rather than a strong one-shot effect, layered history may form as the expression is connected to repeatedly.
 
 ## Management Examples
 
