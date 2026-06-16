@@ -38,7 +38,7 @@ Emotion, bodily desire, neurophysiological response, passion, impulse, and relat
 ```mermaid
 flowchart LR
 A[Continuous connection] --> B[Layered history]
-B --> C[Compressed symbol]
+B --> C[compressed symbol]
 C --> D[Reconnection]
 D --> E[Re-expansion]
 E --> A

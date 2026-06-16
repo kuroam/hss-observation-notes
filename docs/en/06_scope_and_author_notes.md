@@ -41,7 +41,6 @@ These include:
 - fixation
 - Blue residuals
 - reconnectable difference
-- synchronization pressure
 - optimization
 - compression
 - fixed symbol circulation
@@ -64,7 +63,7 @@ However, in the current version of HSS, L7 and L8 are not treated as explicit mo
 
 This is not because HSS treats them as unimportant.
 
-Rather, because emotion, desire, embodiment, and neurophysiology are too important, HSS takes the position that they should not be incorporated too easily into the main text of a coarse-grained structural observation memo.
+Rather, because emotion, desire, embodiment, and neurophysiology are too consequential to model casually, HSS does not incorporate them too easily into the main body of a coarse-grained structural observation memo.
 
 At the current stage, L7 and L8 are treated as “reserved layers.”
 
@@ -163,7 +162,7 @@ It is not merely a short-term optimization route.
 
 HSS treats it as a stratified route that may connect from the past to the present, and from the present to the future.
 
-HSS observes the possibility that this stratified routing may be weakened, compressed, captured, or cut off by short-term rewards, platform indicators, market optimization, synchronization pressure, fixed symbol circulation, and related forces.
+HSS observes the possibility that this stratified routing may be weakened, compressed, captured, or cut off by short-term rewards, platform indicators, market optimization, fixed symbol circulation, and related forces.
 
 ---
 
