@@ -41,6 +41,7 @@ These include:
 - fixation
 - Blue residuals
 - reconnectable difference
+- synchronization pressure
 - optimization
 - compression
 - fixed symbol circulation
@@ -162,7 +163,7 @@ It is not merely a short-term optimization route.
 
 HSS treats it as a stratified route that may connect from the past to the present, and from the present to the future.
 
-HSS observes the possibility that this stratified routing may be weakened, compressed, captured, or cut off by short-term rewards, platform indicators, market optimization, fixed symbol circulation, and related forces.
+HSS observes the possibility that this stratified routing may be weakened, compressed, captured, or cut off by short-term rewards, platform indicators, market optimization, synchronization pressure, fixed symbol circulation, and related forces.
 
 ---
 
