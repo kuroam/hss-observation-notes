@@ -17,7 +17,7 @@ HSS should be read as:
 
 HSS should not be read as:
 
-- a completed theory
+- a finished theory
 - a doctrine
 - a personality typology
 - a theory of human nature
@@ -41,7 +41,14 @@ HSS should not be read as:
 | シワ | Shiwa (lived creases / frictional traces) |
 | 予約層 | reserved layers |
 | 揺り戻し欠損 | feedback deficit |
+| 伝票の束 | invoice bundle |
 | 目的関数の捕獲 | objective function capture |
+
+## Terminology notes
+
+- 揺り戻し欠損 / feedback deficit: Current working translation: feedback deficit. This refers to a state in which negative feedback or corrective action that would normally be expected becomes weakened, delayed, or difficult to observe. It is not meant primarily as emotional rebound, backlash, or reversal.
+- 伝票の束 / invoice bundle: Current working translation: invoice bundle. This is a deliberate HSS metaphor, not a claim that the English phrase is a standard business term. When needed for clarity, it may be glossed as bundled processing documents or bundled processing forms. Do not replace the Report 003 title or existing established HSS phrase globally.
+- 接続可能なズレ / reconnectable difference: Current working translation: reconnectable difference. This refers to a difference, gap, or deviation that is still close enough to return to an existing reconnectable area while allowing new interpretation or reaction. In explanatory prose, “reconnectable gap/difference” may be used when it improves readability. Do not replace it with a dissonance-centered phrase as the main term, because the HSS term is not limited to emotional or cognitive dissonance.
 
 `Shiwa` is kept as a source-derived core term because no single English word fully captures the Japanese nuance.
 `creases`, `traces`, and `frictional traces` are explanatory glosses, not complete replacements.

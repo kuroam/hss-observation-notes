@@ -116,7 +116,7 @@ In short, fixation closes; Blue residuals leave unabsorbed room.
 
 ### 接続可能なズレ / reconnectable difference (provisional)
 
-A difference in change that generates new connections or reinterpretations while maintaining an existing connection area.
+A difference, gap, or deviation that generates new connections or reinterpretations while maintaining an existing reconnectable area.
 
 ---
 
@@ -167,6 +167,8 @@ In HSS, Shiwa is provisionally placed as an important observation target that ma
 ### 揺り戻し欠損 / feedback deficit (provisional)
 
 A state in which negative feedback or corrective action that would normally be expected to occur becomes weakened, delayed, or difficult to observe.
+
+The term emphasizes missing or weakened corrective feedback, rather than emotional rebound or reversal.
 
 It becomes an observation target when only positive feedback remains strong in short-term rewards, recognition, platform indicators, market optimization, and related contexts.
 
