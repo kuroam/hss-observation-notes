@@ -43,7 +43,7 @@ A state in which the reference points of symbols, contexts, interpretations, rea
 
 A symbolic word or phenomenon used as a compositional unit for recalling memory, context, interpretation, or reaction, or for compressing them into another processing form.
 
-Examples: sound, smell, images, and related phenomena.
+Examples: words, phrases, sounds, smells, images, gestures, numbers, labels, and related phenomena.
 
 ---
 

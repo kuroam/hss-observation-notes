@@ -4,7 +4,7 @@ HSS was not constructed by referring to the theories, studies, or papers listed 
 
 The initial concepts, core vocabulary, and observation axes of HSS were not designed based on these fields.
 
-After HSS had been formed as an observation model, we noticed that some existing fields have partially similar concerns or can serve as auxiliary connection points.
+After HSS had been formed as an observation model, it became clear after comparison that some fields have partially similar concerns or can serve as auxiliary connection points.
 
 This document does not present sources, foundations, or justifications for HSS.
 

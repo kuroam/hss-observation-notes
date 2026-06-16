@@ -30,7 +30,7 @@ Here, “original” means that HSS was not designed from existing theories as i
 
 Therefore, HSS is not intended as a derivative, application, summary, or integration of any specific academic theory.
 
-After HSS had been formed as an observation model, we noticed that some existing fields have partially similar concerns or can serve as auxiliary connection points.
+After HSS had been formed as an observation model, the author later noticed that some existing fields have partially similar concerns or can serve as auxiliary connection points.
 
 These fields are not sources, foundations, or justifications for HSS. They are organized in [Related fields](docs/en/08_related_fields.md) as auxiliary lines for readers who want to connect HSS to existing domains.
 
@@ -94,7 +94,7 @@ It observes patterns of connection, routing, compression, feedback, fixation, an
 
 It is not intended as a personality typology, doctrine, theory of human nature, ethical system, emotion theory, neurophysiology theory, or theory of AI consciousness.
 
-L7 and L8 are treated as reserved layers. Emotion, bodily desire, and neurophysiological response are not formalized in the current model.
+For reserved layers, L7/L8, and boundaries around emotion, embodiment, desire, and neurophysiology, see [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md).
 
 For scope boundaries, reserved layers, explanatory power, truth-value, and author comments, see [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md).
 

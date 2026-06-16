@@ -47,7 +47,7 @@ These may be observed not only as fixed meanings, but also as connections that i
 
 ### Platform Indicators
 
-On TikTok, YouTube, SNS, and similar platforms, view counts, audience retention, follower counts, posting frequency, and other measures may be presented as strong indicators.
+On TikTok, YouTube, social media, and similar platforms, view counts, audience retention, follower counts, posting frequency, and other measures may be presented as strong indicators.
 
 Within the platform, these indicators are rational axes of evaluation.
 

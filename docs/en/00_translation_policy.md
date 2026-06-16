@@ -26,6 +26,17 @@ HSS should not be read as:
 - a theory of neurophysiology
 - a theory of AI consciousness
 
+## English style notes
+
+The English version prioritizes readability while preserving the provisional notation of the Japanese source.
+
+- The Japanese documentation remains canonical.
+- English terminology is provisional.
+- Terms such as `symbol`, `Flow`, `Blue residuals`, `Shiwa`, and `layered history` may intentionally preserve HSS-specific notation.
+- After a term has been introduced, prefer one stable English expression instead of repeating multiple glosses every time.
+- Use sentence-style headings where practical in future edits.
+- avoid making the English version sound more authoritative or more academic than the Japanese source.
+
 ## Provisional translation table
 
 | Japanese | English |
