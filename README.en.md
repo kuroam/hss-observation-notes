@@ -94,9 +94,7 @@ It observes patterns of connection, routing, compression, feedback, fixation, an
 
 It is not intended as a personality typology, doctrine, theory of human nature, ethical system, emotion theory, neurophysiology theory, or theory of AI consciousness.
 
-For reserved layers, L7/L8, and boundaries around emotion, embodiment, desire, and neurophysiology, see [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md).
-
-For scope boundaries, reserved layers, explanatory power, truth-value, and author comments, see [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md).
+For scope boundaries, reserved layers (L7/L8), explanatory power, truth-value, and author comments, see [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md).
 
 ## Initial hypothesis
 
