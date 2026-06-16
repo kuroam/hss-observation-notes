@@ -194,7 +194,7 @@ For that reason, the following balance is treated as an observation target.
 - High-speed circulation of fixed symbols.
 - Reconnectability through Blue residuals.
 - Reconnectable difference.
-- Formation of layered history / stratified history.
+- Formation of layered history.
 
 ## Treatment
 
