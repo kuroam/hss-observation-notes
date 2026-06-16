@@ -137,3 +137,13 @@ Rather, this observes what kinds of structural changes may occur when the questi
 These examples are not for proving HSS.
 
 They are treated as light observation notes for checking how connection, reconnection, re-expansion, fixation, and Blue residuals may appear.
+
+## Counterexample / Difficult-Case Candidates
+
+These are not examples for simply denying HSS. They are observation targets for testing how far HSS vocabulary remains useful.
+
+- Cases where long-term culture or layered history emerges from short-cycle markets or short videos.
+- Cases where fixed forms deepen reinterpretation, such as haiku, rakugo, or fixed performance forms.
+- Cases where KPI or evaluation indicators make previously invisible value visible.
+- Cases where the ambiguity of Blue residuals produces confusion, exploitation, or responsibility avoidance rather than creativity.
+- Cases where layered history produces rigidity, exclusion, or in-group closure rather than re-expansion.

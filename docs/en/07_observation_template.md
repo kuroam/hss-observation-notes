@@ -16,6 +16,16 @@ English terminology is provisional.
 - Scope not to observe:
 - What this observation will not conclude:
 
+## 0.1 Pre-observation hypothesis
+
+- Structure expected to be visible through HSS:
+- Signs that would strengthen the hypothesis:
+- Signs that would weaken the hypothesis:
+- Possibility that HSS vocabulary produces no difference:
+- Counterexamples / difficult cases to watch:
+
+This field does not force prediction. It prevents the observation from becoming only an after-the-fact relabeling.
+
 ## 1. Symbols Visible at First
 
 - Strongly circulating symbols:
@@ -92,3 +102,15 @@ This template is not for proving HSS.
 It is also not for judging the target as correct or incorrect, good or bad.
 
 It is treated as a lightweight working memo for provisionally organizing how connection structures may appear.
+
+
+## When HSS observation is weak
+
+- L1 contact cannot be shown.
+- L2 reaction / trace cannot be shown.
+- L3 processing form / routing cannot be shown.
+- No difference from ordinary explanation appears.
+- Adding counterexamples or gaps breaks the explanation.
+- It becomes only a paraphrase.
+
+In this case, the target does not need to be forced into HSS. Record that the observation is weak.

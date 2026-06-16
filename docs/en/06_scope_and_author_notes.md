@@ -21,7 +21,7 @@ HSS is not intended to define:
 - the essence of emotion or desire
 - a complete explanation of brain physiology
 - AI consciousness
-- a completed theory that explains everything
+- a finished total theory
 
 HSS is not a theory for completely explaining humans or the world.
 
@@ -186,7 +186,7 @@ When using HSS, the following points are assumed:
 - Being able to describe or organize something does not mean being correct.
 - Being able to decompose something as structure does not mean that it has no meaning.
 - The explanatory power of a model is not proof of objective truth.
-- HSS is not a completed theory, but an observation memo that may be updated.
+- HSS is not a finished theory, but an observation memo that may be updated.
 - Do not casually model L7 and L8.
 - Do not classify humans into fixed types.
 - Do not reduce stratified routing to mere efficiency or success indicators.
@@ -203,3 +203,34 @@ HSS is a structural memo for observing where stratified routing may be weakening
 HSS does not define how humans should be.
 
 HSS is a PoC for observing how connection structures appear, change, are lost, and are reconnected.
+
+## When observation is weak or does not hold
+
+HSS is not vocabulary to force onto every case.
+
+The observation is treated as weak or not holding when:
+
+- L1 contact cannot be shown concretely;
+- L2 reaction or traces cannot be observed;
+- L3 processing forms or routing cannot be shown;
+- connection source and connection destination cannot be shown concretely;
+- it cannot be shown what was converted into which processing form;
+- none of reconnection, re-expansion, fixation, compression, or layered history can be observed;
+- HSS vocabulary produces no difference from ordinary explanation;
+- external sources or target descriptions do not correspond to the HSS reading;
+- adding counterexamples or gaps makes the HSS explanation unable to hold;
+- no observation hypotheses are added and it becomes only a paraphrase.
+
+In that case, HSS does not treat itself as having explained the target.
+
+HSS treats failed observations or cases where HSS vocabulary produces no difference as important results for updating the model.
+
+Being a PoC is not immunity from critique or verification.
+
+## Observation, explanation, and prediction
+
+HSS first records observation signs at a coarse grain.
+
+An explanation is treated as a provisional organization of those signs, not as objective truth.
+
+Prediction is not forced. When a pre-observation hypothesis is written, it is used to clarify what would strengthen or weaken the reading and to prevent after-the-fact relabeling.
