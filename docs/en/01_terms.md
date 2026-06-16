@@ -13,17 +13,35 @@ Notations such as Flow, symbol, Blue residuals, and 積層history are currently 
 English terminology is provisional, and the Japanese source remains canonical.
 When creating or updating the English version, notation rules and translations may be organized separately as needed.
 
+## Minimal operational definition: connection
+
+In HSS, “connection” does not refer to all relationships in the world.
+
+In this memo, connection provisionally refers to a state in which a symbol, experience, memory, action, institution, evaluation, or processing form affects, is re-referenced by, or has a route back to another context, memory, behavior, judgment, interpretation, evaluation, or processing form.
+
+HSS treats connection as questions such as:
+
+- What can return to what?
+- What causes what to be reinterpreted?
+- What is converted into which processing form?
+- Which routes become thicker, and which routes become thinner?
+- Which routes become fixated, and which routes re-expand?
+
+This is not a final definition of the essence of connection.
+
+It is an operational definition limited to the grain size HSS can observe.
+
 ## Group 1: core reconnectable symbols
 
 ### Flow (provisional)
 
-A state in which connection and interpretation continuously change and keep flowing.
+A state in which the reference points of symbols, contexts, interpretations, reactions, and memories continue to change without becoming fixed.
 
 ---
 
 ### symbol (provisional)
 
-A symbolic word or phenomenon used as a compressed structural unit for reconnecting connections, memories, and interpretations.
+A symbolic word or phenomenon used as a compositional unit for recalling memory, context, interpretation, or reaction, or for compressing them into another processing form.
 
 Examples: sound, smell, images, and related phenomena.
 
@@ -31,19 +49,19 @@ Examples: sound, smell, images, and related phenomena.
 
 ### 接続可能領域 / connection area (provisional)
 
-A connection range formed through continuous connection, where reconnection and reinterpretation are possible.
+A range formed through past experience, memory, context, discomfort, and relationships in which a symbol can call back meaning or reaction.
 
 ---
 
 ### 再接続 / reconnection (provisional)
 
-Being connected again to a connection area, triggered by words, sounds, smells, images, associations, and related cues.
+A state in which past experience, memory, context, discomfort, or relationships are called back by words, sounds, smells, images, associations, or similar triggers.
 
 ---
 
 ### 再展開 / re-expansion (provisional)
 
-The context or meaning within a connection area expanding again through reconnection.
+A state in which the context or memory called back through reconnection expands into another interpretation, action, creative work, or relationship.
 
 ---
 
@@ -57,9 +75,42 @@ A state in which the spread of connection and reinterpretation stops, and meanin
 
 ### Blue residuals (provisional)
 
-An unconverged connection-continuity state.
+Blue residuals are a state in which unresolved interpretive room, discomfort, traces, or reconnection possibility remain.
 
-A state that maintains the spread of connection and reinterpretation while leaving room for interpretation and unconverged possibility.
+This does not refer to every state that is simply not fixated.
+
+In HSS, Blue residuals are observed as a state in which something is not fully absorbed into a processing form or short-cycle reaction, and still has room to return later to another context.
+
+Blue residuals are not defined by HSS as “good” in themselves.
+
+However, from the author’s standpoint, they are treated as an important auxiliary line because they may support layered history and re-expansion.
+
+#### Observation basis
+
+Blue residuals are not judged by an absolute threshold.
+
+Similar to how buzz cannot be defined only by “more than N views,” Blue residuals are observed through a combination of signs.
+
+For example, Blue residuals are easier to observe when:
+
+- Something is referenced again later in another time, scene, or context.
+- It does not end with its first meaning or reaction, and connects to another question, creative act, judgment, or discomfort.
+- It leaves room not fully explainable by a single processing form such as KPI, view count, buzz, price, evaluation, or classification.
+- Questions remain, such as “What was that?”, “Why does it bother me?”, or “Where can it connect?”
+- Imitation, quotation, transformation, reinterpretation, different use, or transfer to another field occurs.
+- Even without a clear conclusion or output, it remains as memory, discomfort, memo, conversation, revisit, save, or re-reference.
+
+These are not proofs. They are observation signs.
+
+When these signs are weak, HSS does not treat the target strongly as Blue residuals.
+
+#### Difference from fixation
+
+Fixation is observed as a state in which a symbol or meaning closes into a single interpretation, role, evaluation, or reaction.
+
+Blue residuals are observed as a state in which, even after processing, room remains for another interpretation, question, context, or reconnection.
+
+In short, fixation closes; Blue residuals leave unabsorbed room.
 
 ---
 
@@ -77,7 +128,7 @@ A record or history formed as different connections and Flows multiply and becom
 
 ### 接続維持性 / connection continuity (provisional)
 
-A quality by which connection and reinterpretation tend to be maintained even when some change or difference occurs.
+A property in which context, memory, reaction, or reinterpretation is likely to remain without breaking, even when some change or difference is introduced.
 
 ---
 
