@@ -41,9 +41,11 @@ A state in which the reference points of symbols, contexts, interpretations, rea
 
 ### symbol (provisional)
 
-A symbolic word or phenomenon used as a compositional unit for recalling memory, context, interpretation, or reaction, or for compressing them into another processing form.
+A symbol is a cue that calls back memory, context, interpretation, or reaction, or a word, image, sound, number, label, or similar item used to handle them in compressed form.
 
-Examples: words, phrases, sounds, smells, images, gestures, numbers, labels, and related phenomena.
+In HSS, a symbol is not treated as meaning itself. It is treated as an entry point that calls back connection or compresses it into a processing form.
+
+Examples: words, phrases, images, sounds, smells, numbers, labels, indicators, gestures, and related phenomena.
 
 ---
 

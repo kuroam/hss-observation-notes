@@ -15,15 +15,9 @@ L1–L3 are not layers for defining human essence or neurophysiology.
 
 In HSS, they are provisionally placed as front-stage observation layers up to the point where symbols or events touch a receiver or field, remain as reactions or traces, and are routed into processing forms.
 
-- L1: Contact layer
-
-- A layer in which symbols, events, words, images, sounds, numbers, institutions, and others’ reactions touch a receiver or field.
-- L2: Reaction / trace layer
-
-- A layer in which what touched the receiver or field remains as discomfort, memory, reaction, click, save, conversation, lingering concern, or processing load.
-- L3: Processing / routing layer
-
-- A layer in which remaining traces or reactions are routed into processing forms such as KPIs, evaluation systems, feeds, rankings, invoice bundles, indexes, stock prices, view counts, approval, or roles.
+- L1: Contact layer — a layer in which symbols, events, words, images, sounds, numbers, institutions, and others’ reactions touch a receiver or field.
+- L2: Reaction / trace layer — a layer in which what touched the receiver or field remains as discomfort, memory, reaction, click, save, conversation, lingering concern, or processing load.
+- L3: Processing / routing layer — a layer in which remaining traces or reactions are routed into processing forms such as KPIs, evaluation systems, feeds, rankings, invoice bundles, indexes, stock prices, view counts, approval, or roles.
 
 L4–L6 observe whether contacts, reactions, traces, and processing forms from L1–L3 become observable as continuous connection, reconnection, re-expansion, fixation, or layered history.
 
@@ -59,9 +53,11 @@ They are provisionally placed as connection areas that tend to be observed while
 
 ## Handling of the core module
 
-The cycle above is the current HSS core module.
+HSS itself is not this core module.
 
-HSS provisionally places a “common flow” as the minimum core module of connection structure.
+HSS is a structural observation OS for decomposing phenomena that appear to be connected into connection source, connection destination, mediating symbol, processing form, traces, and routing.
+
+This core module is the current minimum connection model for reading connection structures decomposed by HSS.
 
 This is not a deterministic causal law.
 
