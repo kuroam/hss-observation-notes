@@ -10,7 +10,7 @@ This is a working English version of the Japanese HSS observation notes. The Jap
 
 ## Clarification
 
-It does not refer to High Sensation Seeking or any psychological personality-trait classification.
+HSS does not refer to High Sensation Seeking or any psychological personality-trait classification.
 
 At the current stage, HSS is not a finished execution environment. It is treated as a structural observation frame updated through observation vocabulary, observation templates, case reports, and counterexamples / difficult cases.
 
