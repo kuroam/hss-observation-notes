@@ -41,9 +41,9 @@ A state in which the reference points of symbols, contexts, interpretations, rea
 
 ### symbol (provisional)
 
-A symbol is a cue that calls back memory, context, interpretation, or reaction, or a word, image, sound, number, label, or similar item used to handle them in compressed form.
+A symbol is a cue that reactivates memory, context, interpretation, or reaction, or a word, image, sound, number, label, or similar item used to handle them in compressed form.
 
-In HSS, a symbol is not treated as meaning itself. It is treated as an entry point that calls back connection or compresses it into a processing form.
+In HSS, a symbol is not treated as meaning itself. It is treated as an entry point that recalls connection or compresses it into a processing form.
 
 Examples: words, phrases, images, sounds, smells, numbers, labels, indicators, gestures, and related phenomena.
 
@@ -51,19 +51,19 @@ Examples: words, phrases, images, sounds, smells, numbers, labels, indicators, g
 
 ### 接続可能領域 / connection area (provisional)
 
-A range formed through past experience, memory, context, discomfort, and relationships in which a symbol can call back meaning or reaction.
+A range formed through past experience, memory, context, discomfort, and relationships in which a symbol can reactivate meaning or reaction.
 
 ---
 
 ### 再接続 / reconnection (provisional)
 
-A state in which past experience, memory, context, discomfort, or relationships are called back by words, sounds, smells, images, associations, or similar triggers.
+A state in which past experience, memory, context, discomfort, or relationships are reactivated by words, sounds, smells, images, associations, or similar triggers.
 
 ---
 
 ### 再展開 / re-expansion (provisional)
 
-A state in which the context or memory called back through reconnection expands into another interpretation, action, creative work, or relationship.
+A state in which the context or memory brought back through reconnection expands into another interpretation, action, creative work, or relationship.
 
 ---
 
@@ -122,9 +122,9 @@ A difference, gap, or deviation that generates new connections or reinterpretati
 
 ---
 
-### 積層history / layered history / stratified history (provisional)
+### 積層history / layered history (provisional)
 
-A record or history formed as different connections and Flows multiply and become layered through continuous connection.
+A record or history formed as different connections and Flows multiply and become layered through continuous connection. “Stratified history” may be used as an auxiliary gloss, but running English prose normally uses “layered history.”
 
 ---
 
@@ -162,7 +162,7 @@ Shiwa refers to frictional traces on a connection route that arise from layered 
 
 It is treated not merely as noise, but as a distinctive trajectory connected from the past to the present.
 
-In HSS, Shiwa is provisionally placed as an important observation target that may be stripped away by optimization or short-term rewards, while supporting layered history / stratified history and stratified routing.
+In HSS, Shiwa is provisionally placed as an important observation target that may be stripped away by optimization or short-term rewards, while supporting layered history and stratified routing.
 
 ---
 
