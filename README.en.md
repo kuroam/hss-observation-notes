@@ -1,4 +1,4 @@
-# HSS: High-speed Society Structure
+# HSS: Connection-Structure Decomposition OS
 
 This is a working English entry for the Japanese HSS observation notes.
 The Japanese documentation is the canonical source.
@@ -8,17 +8,31 @@ The Japanese documentation is the canonical source.
 In this repository, HSS stands for High-speed Society Structure.
 It does not refer to High Sensation Seeking or any psychological personality-trait classification.
 
-## Short description
+HSS is a structural observation OS for decomposing things that appear to be connected across society, markets, organizations, platforms, culture, and symbols.
 
-HSS is a provisional structural observation memo for observing how culture, relationships, creative works, markets, and symbols change through continuous connection and re-expansion.
+It decomposes them into connection source, connection destination, mediating symbol, processing form, traces, routing, fixation, and reconnection possibility.
 
-HSS is treated as a PoC / structural observation memo, not as a finished theory.
+It is not a fixed theory. It is treated as a PoC for decomposing connection structures.
 
 Here, “OS” is a metaphor.
 
 At the current stage, HSS is not a finished execution environment. It is treated as a structural observation frame updated through observation vocabulary, observation templates, case reports, and counterexamples / difficult cases.
 
 Observation inputs, procedures, output formats, and update rules are provisionally operated mainly through [docs/en/07_observation_template.md](docs/en/07_observation_template.md) and the observation reports.
+
+## What HSS does
+
+HSS itself is not a single connection model.
+
+HSS is a structural observation OS for decomposing things that appear to be connected across society, markets, organizations, platforms, culture, and symbols.
+
+Its purpose is not to determine truth.
+
+Its purpose is to check, at the observational grain size of HSS, what kind of connection structure a claimed, apparent, or assumed connection can be decomposed into.
+
+HSS decomposition results are not treated as success or failure.
+
+They are treated as connection confirmation states, such as confirmed connection, unconfirmed connection, different connection destination, absorption into a processing form, shortage of traces, shortage of information, or out-of-scope layer.
 
 ## Model positioning
 
@@ -33,6 +47,17 @@ Therefore, HSS is not intended as a derivative, application, summary, or integra
 After HSS had been formed as an observation model, the author later noticed that some existing fields have partially similar concerns or can serve as auxiliary connection points.
 
 These fields are not sources, foundations, or justifications for HSS. They are organized in [Related fields](docs/en/08_related_fields.md) as auxiliary lines for readers who want to connect HSS to existing domains.
+
+## First reading guide
+
+If reading HSS for the first time, the following order is recommended.
+
+- [docs/en/01_terms.md](docs/en/01_terms.md) — basic terms and provisional definitions.
+- [docs/en/02_core_model.md](docs/en/02_core_model.md) — the L4–L6 core candidate and connection cycle.
+- [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md) — observation scope, reserved layers, explanatory power, truth-value, and author comments.
+
+If the reader wants fixation and Blue residuals, read [docs/en/03_fixed_and_blue_residuals.md](docs/en/03_fixed_and_blue_residuals.md).
+If the reader wants market optimization, read [docs/en/04_market_optimization.md](docs/en/04_market_optimization.md).
 
 ## HSS in 5 provisional claims
 
@@ -56,7 +81,7 @@ This repository manages the core HSS concepts, terminology, and observation axes
 
 The observation reports repository manages individual cases where HSS is applied as a tentative observation axis.
 
-## Overview
+## Important stance
 
 HSS is a PoC / structural observation memo for observing structures of continuous connection and re-expansion in culture, relationships, creative works, markets, symbols, and related areas.
 
@@ -72,21 +97,13 @@ L1–L3 are not layers for defining human essence or neurophysiology.
 
 In HSS, they are provisionally placed as front-stage observation layers up to the point where symbols or events touch a receiver or field, remain as reactions or traces, and are routed into processing forms.
 
-- L1: Contact layer
-
-- A layer in which symbols, events, words, images, sounds, numbers, institutions, and others’ reactions touch a receiver or field.
-- L2: Reaction / trace layer
-
-- A layer in which what touched the receiver or field remains as discomfort, memory, reaction, click, save, conversation, lingering concern, or processing load.
-- L3: Processing / routing layer
-
-- A layer in which remaining traces or reactions are routed into processing forms such as KPIs, evaluation systems, feeds, rankings, invoice bundles, indexes, stock prices, view counts, approval, or roles.
+- L1: Contact layer — a layer in which symbols, events, words, images, sounds, numbers, institutions, and others’ reactions touch a receiver or field.
+- L2: Reaction / trace layer — a layer in which what touched the receiver or field remains as discomfort, memory, reaction, click, save, conversation, lingering concern, or processing load.
+- L3: Processing / routing layer — a layer in which remaining traces or reactions are routed into processing forms such as KPIs, evaluation systems, feeds, rankings, invoice bundles, indexes, stock prices, view counts, approval, or roles.
 
 L4–L6 observe whether contacts, reactions, traces, and processing forms from L1–L3 become observable as continuous connection, reconnection, re-expansion, fixation, or layered history.
 
 This is a provisional observation placement, not a complete layer definition.
-
-## Important stance
 
 HSS is a provisional structural observation memo and a coarse-grained structural scanner.
 
@@ -104,9 +121,11 @@ This model observes relations among structures such as low-tokenization, high re
 
 ## Core Symbols
 
-HSS treats the following symbols as entry vocabulary.
+The following terms are entry vocabulary used when decomposing connection structures in HSS.
 
-Core Symbols are not all on the same layer or of the same importance. They include core concepts, auxiliary concepts, and observation aid lines. Strict definitions and hierarchy are organized in [docs/en/01_terms.md](docs/en/01_terms.md).
+First-time readers do not need to understand all of them as definitions. Details are organized in [docs/en/01_terms.md](docs/en/01_terms.md).
+
+The Core Symbols listed here do not all belong to the same layer or have the same importance. Core concepts, auxiliary concepts, and observation aid lines are mixed.
 
 - Flow
 - symbol
@@ -118,6 +137,7 @@ Core Symbols are not all on the same layer or of the same importance. They inclu
 - reconnectable difference
 - layered history
 - connection continuity
+- synchronization pressure
 
 ## Current position of HSS
 
@@ -132,23 +152,6 @@ Future updates will treat not only cases where HSS structures appear, but also c
 HSS emphasizes maintaining PoC status, separating layers, avoiding truth-system formation, maintaining Blue residuals, maintaining connection areas, and critical checking force (tsukkomi).
 
 Critical checking force (tsukkomi) is a self-critical checking posture for preventing HSS from becoming a truth system or doctrine. The stronger an observation appears, the more HSS checks counterexamples, gaps, over-interpretation, and over-explanation.
-
-## First reading guide
-
-If reading HSS for the first time, the following order is recommended.
-
-- [docs/en/01_terms.md](docs/en/01_terms.md)
-
-- Basic terms and provisional definitions.
-- [docs/en/02_core_model.md](docs/en/02_core_model.md)
-
-- The L4–L6 core candidate and connection cycle.
-- [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md)
-
-- Observation scope, reserved layers, explanatory power, truth-value, and author comments.
-
-If the reader wants fixation and Blue residuals, read [docs/en/03_fixed_and_blue_residuals.md](docs/en/03_fixed_and_blue_residuals.md).
-If the reader wants market optimization, read [docs/en/04_market_optimization.md](docs/en/04_market_optimization.md).
 
 ## Documents
 

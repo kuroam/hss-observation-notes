@@ -9,22 +9,23 @@ It is a working memo for organizing how connection structures, fixation, reconne
 The Japanese source is canonical.
 English terminology is provisional.
 
-## 0. Observation Target
+## 0. Observation target
 
 - Target:
 - Scope to observe:
 - Scope not to observe:
 - What this observation will not conclude:
 
-## 0.1 Pre-observation hypothesis
+## 0.1 Connection to be decomposed
 
-- Structure expected to be visible through HSS:
-- Signs that would strengthen the hypothesis:
-- Signs that would weaken the hypothesis:
-- Possibility that HSS vocabulary produces no difference:
-- Counterexamples / difficult cases to watch:
-
-This field does not force prediction. It prevents the observation from becoming only an after-the-fact relabeling.
+- Claimed or apparent connection:
+- Connection source:
+- Connection destination:
+- Mediating symbol / processing form:
+- What appears as traces or logs:
+- Assumed routing:
+- Possible L7/L8-derived influence:
+- Points to leave pending due to insufficient information:
 
 ## 1. Symbols Visible at First
 
@@ -88,6 +89,13 @@ This field does not force prediction. It prevents the observation from becoming 
 
 ## 9. Observation Memo
 
+- Could it be decomposed?
+- Could the connection source and destination be separated?
+- Could the mediating symbol / processing form / traces / routing be confirmed?
+- Did the claimed connection match the observable connection?
+- What does the connection structure affect?
+- Which layer remains unclear?
+- Hypothesis produced from the decomposition result:
 - Connections becoming thicker:
 - Connections becoming thinner:
 - Connections that may be lost:
@@ -104,13 +112,10 @@ It is also not for judging the target as correct or incorrect, good or bad.
 It is treated as a lightweight working memo for provisionally organizing how connection structures may appear.
 
 
-## When HSS observation is weak
+## When connection confirmation has low precision or should remain pending
 
-- L1 contact cannot be shown.
-- L2 reaction / trace cannot be shown.
-- L3 processing form / routing cannot be shown.
-- No difference from ordinary explanation appears.
-- Adding counterexamples or gaps breaks the explanation.
-- It becomes only a paraphrase.
+HSS does not treat this as a success / failure result.
 
-In this case, the target does not need to be forced into HSS. Record that the observation is weak.
+Record it as unconfirmed connection, different connection destination, absorption into a processing form, shortage of traces, out-of-scope layer, or insufficient information.
+
+The target does not need to be forced into HSS. Record the connection confirmation state and leave unclear layers pending.

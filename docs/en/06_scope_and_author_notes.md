@@ -2,15 +2,16 @@
 
 This document is a supplementary memo for organizing the observation scope of HSS, reserved layers, explanatory power versus truth, and author comments.
 
-The main body of HSS is not a fixed theory. It is a PoC (proof-of-concept observation model) for observing connection structures.
+The main body of HSS is not a fixed theory. It is a PoC for observing and decomposing connection structures.
 
-This document is also treated not as a definitive theory, but as something that may be updated according to future observations.
+The Japanese source is canonical.
+English terminology is provisional.
 
 ---
 
-## 1. Position of this document
+## 1. Position of HSS
 
-HSS is a structural memo for observing, at a coarse grain, connection structures that may appear in culture, relationships, creative works, markets, symbols, and related domains.
+HSS is a structural memo for observing, at a coarse grain, connection structures that may appear in culture, relationships, creative works, markets, organizations, platforms, symbols, and related domains.
 
 HSS is not intended to define:
 
@@ -25,9 +26,7 @@ HSS is not intended to define:
 
 HSS is not a theory for completely explaining humans or the world.
 
-It is a provisional PoC for observing whether structures observed across multiple domains can be read as connection, compression, optimization, re-expansion, fixation, and layered history.
-
----
+It is a provisional PoC for observing whether phenomena can be decomposed into connection source, connection destination, mediating symbol, processing form, traces, routing, fixation, and reconnection possibility.
 
 ## 2. Observation scope
 
@@ -54,51 +53,23 @@ However, L1–L6 are not fixed layer definitions.
 
 At the current stage, they are provisional placements for treating these as the main connection structures under observation.
 
----
+## 3. L7 and L8
 
-## 3. L7 and L8 are reserved layers
+L7/L8 are not outside HSS.
 
 Emotion, bodily desire, neurophysiological response, passion, impulse, pleasure, pain, desire for recognition, and related phenomena may be positioned in deeper layers such as L7 and L8.
 
-However, in the current version of HSS, L7 and L8 are not treated as explicit model targets.
+However, in the current version of HSS, HSS does not model L7/L8 directly.
 
 This is not because HSS treats them as unimportant.
 
 Rather, because emotion, desire, embodiment, and neurophysiology are too consequential to model casually, HSS does not incorporate them too easily into the main body of a coarse-grained structural observation memo.
 
-At the current stage, L7 and L8 are treated as “reserved layers.”
+HSS handles traces that appear in L1–L6 as reactions, traces, symbols, processing forms, or routing.
 
-A reserved layer does not mean a layer whose existence or importance is denied.
+At the current stage, L7 and L8 are treated as background reserved layers whose traces may be observed only through L1–L6 connection structures.
 
-It means a layer that is not explicitly formalized in the current version.
-
----
-
-## 4. Why L7 and L8 are reserved layers
-
-Emotion, desire, embodiment, and neurophysiology may become important observation targets for HSS.
-
-However, if they are carelessly incorporated into the main body of HSS, HSS may be misread as:
-
-- a theory of human essence
-- a theory of emotion
-- a theory of desire
-- a theory of happiness
-- an ethical model
-- a behavioral control model
-- a theory of AI consciousness
-
-HSS does not define these things.
-
-HSS is not a theory that fully explains human emotion or desire.
-
-It is also not a theory that fully explains human happiness, good and evil, mind, or brain physiology.
-
-For that reason, L7 and L8 are treated as reserved layers at the current stage.
-
----
-
-## 5. Explanatory power and truth
+## 4. Explanatory power and truth
 
 HSS may be able to describe certain phenomena at a certain level of granularity.
 
@@ -112,7 +83,23 @@ Seeing a structure from one observation coordinate system and that structure bei
 
 For that reason, HSS is treated not as a fixed theory, but as a structural memo that may be updated according to observation.
 
----
+## 5. Connection confirmation states
+
+HSS does not treat decomposition results as success / failure.
+
+Low precision or pending cases may be recorded as connection confirmation states, such as:
+
+- confirmed connection
+- unconfirmed connection
+- different connection destination
+- absorption into a processing form
+- shortage of traces
+- out-of-scope layer
+- shortage of information
+
+These states do not mean that the target has no value or that the observation target is denied.
+
+They mean that, at the observational grain size of HSS, the connection structure should be recorded with that level of confirmation.
 
 ## 6. HSS does not classify people
 
@@ -133,53 +120,31 @@ For example, HSS handles questions such as:
 
 HSS does not classify humans as attributes. It observes connection states and routing states.
 
----
-
 ## 7. Distance from nihilism
 
-HSS may observe culture, creative work, value, success, meaning, and related phenomena by reading them through structures, routing, compression, and optimization.
+HSS may observe culture, creative work, value, meaning, and related phenomena by reading them through structures, routing, compression, and optimization.
 
 For that reason, at first glance, it may appear to be a nihilistic view that reduces everything to structure.
 
 However, the author does not take that position.
 
-Rather, the author considers that the stronger structural decomposition becomes, the more important stratified routing becomes.
-
 HSS is not a decomposer for denying meaning or value.
 
 Rather, it is a structural memo for observing where the connection routes that support meaning and value may be weakening, being compressed, being captured, or about to be cut off.
 
----
-
-## 8. Stratified routing
+## 8. Stratified routing and author comment
 
 Stratified routing refers to connection routes that include `Shiwa` — lived creases or frictional traces — formed by experience, memory, culture, civilization, relationships, failures, discomfort, and continuous connection.
 
-It is not merely the shortest route.
-
-It is not merely an efficient route.
-
-It is not merely a short-term optimization route.
-
-HSS treats it as a stratified route that may connect from the past to the present, and from the present to the future.
+It is not merely the shortest route, an efficient route, or a short-term optimization route.
 
 HSS observes the possibility that this stratified routing may be weakened, compressed, captured, or cut off by short-term rewards, platform indicators, market optimization, synchronization pressure, fixed symbol circulation, and related forces.
 
----
-
-## 9. Author comment
-
 The main body of HSS does not aim at value judgment.
 
-However, as the author’s personal position, the preservation of stratified routing is treated as an important viewpoint.
+However, as the author’s personal position, preservation of stratified routing is treated as an important viewpoint by the author, but it is not an axiom of HSS.
 
-This position is not an axiom of the main body of HSS.
-
-It is the author’s statement of position toward phenomena observed through HSS.
-
----
-
-## 10. Safety principles
+## 9. Safety principles
 
 When using HSS, the following points are assumed:
 
@@ -189,12 +154,10 @@ When using HSS, the following points are assumed:
 - HSS is not a finished theory, but an observation memo that may be updated.
 - Do not casually model L7 and L8.
 - Do not classify humans into fixed types.
-- Do not reduce stratified routing to mere efficiency or success indicators.
+- Do not reduce stratified routing to mere efficiency or indicators.
 - Do not confuse the observation function of the main body of HSS with the author’s statement of position.
 
----
-
-## 11. Provisional conclusion
+## 10. Provisional conclusion
 
 HSS is not a decomposer for giving up on the world.
 
@@ -203,34 +166,3 @@ HSS is a structural memo for observing where stratified routing may be weakening
 HSS does not define how humans should be.
 
 HSS is a PoC for observing how connection structures appear, change, are lost, and are reconnected.
-
-## When observation is weak or does not hold
-
-HSS is not vocabulary to force onto every case.
-
-The observation is treated as weak or not holding when:
-
-- L1 contact cannot be shown concretely;
-- L2 reaction or traces cannot be observed;
-- L3 processing forms or routing cannot be shown;
-- connection source and connection destination cannot be shown concretely;
-- it cannot be shown what was converted into which processing form;
-- none of reconnection, re-expansion, fixation, compression, or layered history can be observed;
-- HSS vocabulary produces no difference from ordinary explanation;
-- external sources or target descriptions do not correspond to the HSS reading;
-- adding counterexamples or gaps makes the HSS explanation unable to hold;
-- no observation hypotheses are added and it becomes only a paraphrase.
-
-In that case, HSS does not treat itself as having explained the target.
-
-HSS treats failed observations or cases where HSS vocabulary produces no difference as important results for updating the model.
-
-Being a PoC is not immunity from critique or verification.
-
-## Observation, explanation, and prediction
-
-HSS first records observation signs at a coarse grain.
-
-An explanation is treated as a provisional organization of those signs, not as objective truth.
-
-Prediction is not forced. When a pre-observation hypothesis is written, it is used to clarify what would strengthen or weaken the reading and to prevent after-the-fact relabeling.
