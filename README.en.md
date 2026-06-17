@@ -1,8 +1,6 @@
 # HSS: Connection-Structure Decomposition OS
 
-HSS stands for High-speed Society Structure.
-
-It is a structural observation OS for decomposing things that appear to be connected across society, markets, organizations, platforms, culture, and symbols.
+HSS, or High-speed Society Structure, is a structural observation OS for decomposing things that appear to be connected across society, markets, organizations, platforms, culture, and symbols.
 
 HSS checks how those apparent connections can be decomposed into connection source, connection destination, mediating symbol, processing form, traces, routing, fixation, and reconnection possibility.
 
@@ -12,7 +10,6 @@ This is a working English version of the Japanese HSS observation notes. The Jap
 
 ## Clarification
 
-In this repository, HSS stands for High-speed Society Structure.
 It does not refer to High Sensation Seeking or any psychological personality-trait classification.
 
 At the current stage, HSS is not a finished execution environment. It is treated as a structural observation frame updated through observation vocabulary, observation templates, case reports, and counterexamples / difficult cases.
@@ -23,7 +20,7 @@ Observation inputs, procedures, output formats, and update rules are provisional
 
 HSS itself is not a single connection model. Its purpose is not to determine truth, but to check, at the observational grain size of HSS, what kind of connection structure a claimed, apparent, or assumed connection can be decomposed into.
 
-HSS decomposition results are not treated as success or failure. They are treated as connection confirmation states, such as confirmed connection, unconfirmed connection, different connection destination, absorption into a processing form, shortage of traces, shortage of information, or out-of-scope layer.
+HSS decomposition results are not treated as success or failure. They are treated as connection-confirmation states, such as confirmed connection, unconfirmed connection, different connection destination, absorption into a processing form, shortage of traces, shortage of information, or out-of-scope layer. Details are organized in docs/en/06_scope_and_author_notes.md ([link](docs/en/06_scope_and_author_notes.md)).
 
 ## Model positioning
 
@@ -72,23 +69,15 @@ The observation reports repository manages individual cases where HSS is applied
 
 ## Scope boundaries
 
-HSS is a PoC / structural observation memo for observing structures of continuous connection and re-expansion in culture, relationships, creative works, markets, symbols, and related areas.
+HSS does not define personality essence, mental essence, human nature, emotion, desire, neurophysiology, ethics, or AI consciousness.
 
-At the current stage, elements such as continuous connection, reconnection, re-expansion, fixation, and layered relationship formation are organized mainly as connection structures around L1–L6.
+At the current stage, HSS mainly handles connection structures around L1–L6.
 
-L1–L3 are not layers for defining human essence or neurophysiology. In HSS, they are provisionally placed as front-stage observation layers up to the point where symbols or events touch a receiver or field, remain as reactions or traces, and are routed into processing forms.
+L1–L3 are treated as provisional front-stage observation layers, while L4–L6 are where continuous connection, layered history, compressed symbols, fixation, reconnection, and re-expansion become easier to observe.
 
-- L1: Contact layer — a layer in which symbols, events, words, images, sounds, numbers, institutions, and others’ reactions touch a receiver or field.
-- L2: Reaction / trace layer — a layer in which what touched the receiver or field remains as discomfort, memory, reaction, click, save, conversation, lingering concern, or processing load.
-- L3: Processing / routing layer — a layer in which remaining traces or reactions are routed into processing forms such as KPIs, evaluation systems, feeds, rankings, invoice bundles, indexes, stock prices, view counts, approval, or roles.
+For the detailed L1–L6 placement and core connection module, see docs/en/02_core_model.md ([link](docs/en/02_core_model.md)).
 
-L4–L6 observe whether contacts, reactions, traces, and processing forms from L1–L3 become observable as continuous connection, reconnection, re-expansion, fixation, or layered history. This is a provisional observation placement, not a complete layer definition.
-
-HSS is a provisional structural observation memo and a coarse-grained structural scanner. It observes patterns of connection, routing, compression, feedback, fixation, and re-expansion across culture, relationships, creative works, markets, and symbols.
-
-It is not intended as a personality typology, doctrine, theory of human nature, ethical system, emotion theory, neurophysiology theory, or theory of AI consciousness.
-
-For scope boundaries, reserved layers (L7/L8), explanatory power, truth-value, and author comments, see [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md).
+For reserved layers such as L7/L8 and boundaries around emotion, embodiment, desire, and neurophysiology, see docs/en/06_scope_and_author_notes.md ([link](docs/en/06_scope_and_author_notes.md)).
 
 ## Initial hypothesis
 
