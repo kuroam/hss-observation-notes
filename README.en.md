@@ -1,20 +1,19 @@
 # HSS: Connection-Structure Decomposition OS
 
-This is a working English entry for the Japanese HSS observation notes.
-The Japanese documentation is the canonical source.
+HSS stands for High-speed Society Structure.
+
+It is a structural observation OS for decomposing things that appear to be connected across society, markets, organizations, platforms, culture, and symbols.
+
+HSS checks how those apparent connections can be decomposed into connection source, connection destination, mediating symbol, processing form, traces, routing, fixation, and reconnection possibility.
+
+HSS is not a fixed theory but a PoC for decomposing connection structures. Here, “OS” is a metaphor.
+
+This is a working English version of the Japanese HSS observation notes. The Japanese documentation remains canonical.
 
 ## Clarification
 
 In this repository, HSS stands for High-speed Society Structure.
 It does not refer to High Sensation Seeking or any psychological personality-trait classification.
-
-HSS is a structural observation OS for decomposing things that appear to be connected across society, markets, organizations, platforms, culture, and symbols.
-
-It decomposes them into connection source, connection destination, mediating symbol, processing form, traces, routing, fixation, and reconnection possibility.
-
-It is not a fixed theory. It is treated as a PoC for decomposing connection structures.
-
-Here, “OS” is a metaphor.
 
 At the current stage, HSS is not a finished execution environment. It is treated as a structural observation frame updated through observation vocabulary, observation templates, case reports, and counterexamples / difficult cases.
 
@@ -22,17 +21,9 @@ Observation inputs, procedures, output formats, and update rules are provisional
 
 ## What HSS does
 
-HSS itself is not a single connection model.
+HSS itself is not a single connection model. Its purpose is not to determine truth, but to check, at the observational grain size of HSS, what kind of connection structure a claimed, apparent, or assumed connection can be decomposed into.
 
-HSS is a structural observation OS for decomposing things that appear to be connected across society, markets, organizations, platforms, culture, and symbols.
-
-Its purpose is not to determine truth.
-
-Its purpose is to check, at the observational grain size of HSS, what kind of connection structure a claimed, apparent, or assumed connection can be decomposed into.
-
-HSS decomposition results are not treated as success or failure.
-
-They are treated as connection confirmation states, such as confirmed connection, unconfirmed connection, different connection destination, absorption into a processing form, shortage of traces, shortage of information, or out-of-scope layer.
+HSS decomposition results are not treated as success or failure. They are treated as connection confirmation states, such as confirmed connection, unconfirmed connection, different connection destination, absorption into a processing form, shortage of traces, shortage of information, or out-of-scope layer.
 
 ## Model positioning
 
@@ -40,9 +31,7 @@ HSS was not constructed by referring to existing theories, studies, or papers.
 
 The initial concepts, core vocabulary, and observation axes of HSS were formed as an original observation model through creative work, operations, organizations, culture, and dialogue with AI.
 
-Here, “original” means that HSS was not designed from existing theories as its starting point; it does not claim to stand above, replace, or integrate those theories.
-
-Therefore, HSS is not intended as a derivative, application, summary, or integration of any specific academic theory.
+Here, “original” means that HSS was not designed from existing theories as its starting point; it does not claim to stand above, replace, or integrate those theories. HSS is therefore not intended as a derivative, application, summary, or integration of any specific academic theory.
 
 After HSS had been formed as an observation model, the author later noticed that some existing fields have partially similar concerns or can serve as auxiliary connection points.
 
@@ -81,33 +70,21 @@ This repository manages the core HSS concepts, terminology, and observation axes
 
 The observation reports repository manages individual cases where HSS is applied as a tentative observation axis.
 
-## Important stance
+## Scope boundaries
 
 HSS is a PoC / structural observation memo for observing structures of continuous connection and re-expansion in culture, relationships, creative works, markets, symbols, and related areas.
 
-At the current stage, elements such as the following are organized mainly as connection structures around L1–L6.
+At the current stage, elements such as continuous connection, reconnection, re-expansion, fixation, and layered relationship formation are organized mainly as connection structures around L1–L6.
 
-- continuous connection
-- reconnection
-- re-expansion
-- fixation
-- layered relationship formation
-
-L1–L3 are not layers for defining human essence or neurophysiology.
-
-In HSS, they are provisionally placed as front-stage observation layers up to the point where symbols or events touch a receiver or field, remain as reactions or traces, and are routed into processing forms.
+L1–L3 are not layers for defining human essence or neurophysiology. In HSS, they are provisionally placed as front-stage observation layers up to the point where symbols or events touch a receiver or field, remain as reactions or traces, and are routed into processing forms.
 
 - L1: Contact layer — a layer in which symbols, events, words, images, sounds, numbers, institutions, and others’ reactions touch a receiver or field.
 - L2: Reaction / trace layer — a layer in which what touched the receiver or field remains as discomfort, memory, reaction, click, save, conversation, lingering concern, or processing load.
 - L3: Processing / routing layer — a layer in which remaining traces or reactions are routed into processing forms such as KPIs, evaluation systems, feeds, rankings, invoice bundles, indexes, stock prices, view counts, approval, or roles.
 
-L4–L6 observe whether contacts, reactions, traces, and processing forms from L1–L3 become observable as continuous connection, reconnection, re-expansion, fixation, or layered history.
+L4–L6 observe whether contacts, reactions, traces, and processing forms from L1–L3 become observable as continuous connection, reconnection, re-expansion, fixation, or layered history. This is a provisional observation placement, not a complete layer definition.
 
-This is a provisional observation placement, not a complete layer definition.
-
-HSS is a provisional structural observation memo and a coarse-grained structural scanner.
-
-It observes patterns of connection, routing, compression, feedback, fixation, and re-expansion across culture, relationships, creative works, markets, and symbols.
+HSS is a provisional structural observation memo and a coarse-grained structural scanner. It observes patterns of connection, routing, compression, feedback, fixation, and re-expansion across culture, relationships, creative works, markets, and symbols.
 
 It is not intended as a personality typology, doctrine, theory of human nature, ethical system, emotion theory, neurophysiology theory, or theory of AI consciousness.
 
@@ -147,24 +124,26 @@ This organization is not settled and is expected to be updated through future ob
 
 Future updates will treat not only cases where HSS structures appear, but also cases where HSS vocabulary produces no difference and cases where the observation is weak, as material for updating the model.
 
-## Important operating stance
+## Operating principles
 
-HSS emphasizes maintaining PoC status, separating layers, avoiding truth-system formation, maintaining Blue residuals, maintaining connection areas, and critical checking force (tsukkomi).
+HSS emphasizes maintaining PoC status, separating layers, avoiding truth-system formation, maintaining Blue residuals, maintaining reconnectable areas, and critical checking force (tsukkomi).
 
 Critical checking force (tsukkomi) is a self-critical checking posture for preventing HSS from becoming a truth system or doctrine. The stronger an observation appears, the more HSS checks counterexamples, gaps, over-interpretation, and over-explanation.
 
 ## Documents
 
-- Japanese README: [README.md](README.md)
-- Translation policy: [docs/en/00_translation_policy.md](docs/en/00_translation_policy.md)
-- Scope and author notes: [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md)
-- Terms: [docs/en/01_terms.md](docs/en/01_terms.md)
-- Core model: [docs/en/02_core_model.md](docs/en/02_core_model.md)
-- Fixed and Blue residuals: [docs/en/03_fixed_and_blue_residuals.md](docs/en/03_fixed_and_blue_residuals.md)
-- Market optimization: [docs/en/04_market_optimization.md](docs/en/04_market_optimization.md)
-- Case studies: [docs/en/05_case_studies.md](docs/en/05_case_studies.md)
-- Observation template: [docs/en/07_observation_template.md](docs/en/07_observation_template.md)
-- Related fields: [docs/en/08_related_fields.md](docs/en/08_related_fields.md)
+| File | Contents |
+| --- | --- |
+| [README.md](README.md) | Japanese canonical README |
+| [docs/en/00_translation_policy.md](docs/en/00_translation_policy.md) | Translation policy and terminology notes |
+| [docs/en/01_terms.md](docs/en/01_terms.md) | Basic terms and provisional definitions |
+| [docs/en/02_core_model.md](docs/en/02_core_model.md) | Core connection module and L1–L6 structure |
+| [docs/en/03_fixed_and_blue_residuals.md](docs/en/03_fixed_and_blue_residuals.md) | Fixation and Blue residuals observation notes |
+| [docs/en/04_market_optimization.md](docs/en/04_market_optimization.md) | Market optimization observation memo |
+| [docs/en/05_case_studies.md](docs/en/05_case_studies.md) | Case study candidates |
+| [docs/en/06_scope_and_author_notes.md](docs/en/06_scope_and_author_notes.md) | Scope boundaries, reserved layers, and author notes |
+| [docs/en/07_observation_template.md](docs/en/07_observation_template.md) | Lightweight observation template |
+| [docs/en/08_related_fields.md](docs/en/08_related_fields.md) | Related fields and structural limitations |
 
 ## Rights and License
 
