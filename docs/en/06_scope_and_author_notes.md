@@ -58,7 +58,7 @@ HSS is not a decomposer for denying meaning or value. It is a structural memo fo
 
 Stratified routing refers to connection routes that include `Shiwa` — lived creases or frictional traces — formed by experience, memory, culture, civilization, relationships, discomfort, and continuous connection.
 
-The stronger structural decomposition becomes, the more important stratified routing becomes. The author personally treats preservation of stratified routing as important, but this is not an axiom of HSS.
+The stronger structural decomposition becomes, the more important stratified routing becomes. The author personally treats the preservation of stratified routing as important, but this reflects the author’s position rather than an axiom of HSS.
 
 ## 6. Safety principles and provisional conclusion
 
