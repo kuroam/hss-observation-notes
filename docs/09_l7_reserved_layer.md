@@ -78,6 +78,8 @@ L7 Minimum Core は、単体 session の観測モデルです。
 → 次回sessionのShiwaへ積層
 ```
 
+ここでの「L8側状態」は、身体性、疲労、痛み、快・不快、衝動、脳生理などを直接推定するものではありません。L7 Minimum Core では、同じ入力でも閾値・重みづけ・routing が変化しているように見える場合に限り、L8側状態が影響している可能性を保留的に扱います。L8そのものは、この文書では直接形式化しません。
+
 Minimum Core で見る観測単位：
 
 - input / trigger：何が入力されたか。
@@ -146,6 +148,10 @@ Crowd / Field Coreでは、反応全体を一発でMECEにしようとしませ�
 感情名は重なりやすいため、怒り、不満、攻撃、嘲笑、防衛、遊びなどをそのままMECE分類の主軸にすると崩れます。
 
 そのため、以下のように複数の軸を分け、それぞれの軸内で primary label を1つ付けることを基本とします。
+
+ここで示すラベル群は、感情や行動の本質分類ではありません。観測された発露ベクトルを暫定的に記録・比較するための coding aid です。MECE性は記録用の主分類に対して適用し、現象そのものがMECEであるとは仮定しません。
+
+各軸では primary label を1つ付けます。ただし、発露の重なりや曖昧さは secondary tags と memo に残します。たとえば、PLAYでありながらSANCTIONとしても機能する皮肉、DEFENSEでありながらREPAIRとしても機能する説明は、primary label と secondary tags を分けて記録します。
 
 ### Axis A: Primary emission function
 
@@ -309,6 +315,8 @@ L7 Crowd / Field Coreで言えるのは、次の範囲に限ります。
 ---
 
 ## 10. AI slopでの例示
+
+この節は、L7 Minimum Core と Crowd / Field Core の読み方を示すための例示です。AI slop言説全体についての結論ではありません。
 
 Minimum Coreでは、たとえば次のように見る。
 
