@@ -60,6 +60,8 @@ HSSの初期概念、主要語彙、観測軸は、創作、運用、組織、�
 
 その後、固定化とBlue residualsを見たい場合は [`docs/03_fixed_and_blue_residuals.md`](docs/03_fixed_and_blue_residuals.md) を、市場最適化との関係を見たい場合は [`docs/04_market_optimization.md`](docs/04_market_optimization.md) を参照してください。
 
+L7予約層の暫定整理を確認する場合は、[`docs/09_l7_reserved_layer.md`](docs/09_l7_reserved_layer.md) を参照してください。
+
 ---
 
 ## HSSの5つの暫定claim
@@ -103,6 +105,8 @@ HSSは、以下を定義するものではありません。
 HSSは、暫定的な観測メモであり、完成理論・教義・人間本質論・人格類型論としては扱いません。
 
 観測範囲、L7・L8予約層、説明力と真理性の扱いについては、[`docs/06_scope_and_author_notes.md`](docs/06_scope_and_author_notes.md) を参照してください。
+
+L7予約層の暫定整理については、[`docs/09_l7_reserved_layer.md`](docs/09_l7_reserved_layer.md) を参照してください。
 
 ---
 
@@ -195,6 +199,7 @@ HSSでは、以下を重視します。
 | [docs/06_scope_and_author_notes.md](docs/06_scope_and_author_notes.md) | 観測範囲、予約層、説明力と真理性、作者コメント |
 | [docs/07_observation_template.md](docs/07_observation_template.md) | HSSを軽く適用するための観測テンプレート |
 | [docs/08_related_fields.md](docs/08_related_fields.md) | 近接領域との関係 |
+| [docs/09_l7_reserved_layer.md](docs/09_l7_reserved_layer.md) | L7予約層の暫定整理 |
 
 ---
 
