@@ -1,0 +1,203 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/kuroam/hss-observation-notes/schema/hss_observation.schema.json",
+  "title": "HSS Observation",
+  "description": "Machine-readable schema for an HSS observation unit. This schema is for structured observation, not for truth claims or diagnostic scoring.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "target",
+    "scope",
+    "non_claims",
+    "claimed_connection",
+    "source",
+    "destination",
+    "mediating_symbol",
+    "processing_form",
+    "trace",
+    "routing",
+    "connection_status",
+    "observation_strength",
+    "uncertainty"
+  ],
+  "properties": {
+    "target": {
+      "type": "string",
+      "description": "Observation target."
+    },
+    "scope": {
+      "type": "string",
+      "description": "Scope of the observation."
+    },
+    "excluded_scope": {
+      "type": "string",
+      "description": "Scope explicitly excluded from the observation."
+    },
+    "non_claims": {
+      "type": "array",
+      "description": "Claims the observation does not make.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "claimed_connection": {
+      "type": "string",
+      "description": "The connection that is said or assumed to exist in the target."
+    },
+    "source": {
+      "type": "string",
+      "description": "Connection source."
+    },
+    "destination": {
+      "type": "string",
+      "description": "Connection destination."
+    },
+    "mediating_symbol": {
+      "type": "array",
+      "description": "Symbols mediating the connection. Symbols are treated as entry points for connection or processing forms, not as meaning itself.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "processing_form": {
+      "type": "array",
+      "description": "Forms into which the target is converted, such as KPI, ranking, approval, price, API call, feed slot, or template.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "trace": {
+      "type": "array",
+      "description": "Observable traces such as saves, quotes, logs, conversations, revisits, discomfort, repeated use, or residual memory.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "routing": {
+      "type": "array",
+      "description": "Observed or suspected routes through which the connection or trace flows.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "reconnectable_path": {
+      "type": "array",
+      "description": "Paths through which the target can return to its original or alternative contexts.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "layer_mapping": {
+      "type": "object",
+      "description": "Provisional mapping of observations to HSS layers.",
+      "additionalProperties": false,
+      "properties": {
+        "L1_contact": { "$ref": "#/$defs/layer_note" },
+        "L2_reaction_trace": { "$ref": "#/$defs/layer_note" },
+        "L3_processing_routing": { "$ref": "#/$defs/layer_note" },
+        "L4_continuity_layered_history": { "$ref": "#/$defs/layer_note" },
+        "L5_compression_fixation": { "$ref": "#/$defs/layer_note" },
+        "L6_reconnection_reexpansion": { "$ref": "#/$defs/layer_note" },
+        "L7_L8_reserved": { "$ref": "#/$defs/layer_note" }
+      }
+    },
+    "fixation": {
+      "type": "array",
+      "description": "Observed fixation of symbols, interpretations, routes, or roles.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "blue_residuals": {
+      "type": "array",
+      "description": "Unabsorbed interpretation room, discomfort, traces, or reconnectability left after processing.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "shiwa": {
+      "type": "array",
+      "description": "Lived creases / frictional traces from layered experience, memory, failure, discomfort, or continued connection.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "reconnectable_difference": {
+      "type": "array",
+      "description": "Differences that preserve reconnectability while opening new connections or interpretations.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "feedback_deficit": {
+      "type": "array",
+      "description": "Places where negative feedback, discomfort, re-evaluation, or corrective return appears weakened or delayed.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "objective_function_capture": {
+      "type": "array",
+      "description": "Places where an external objective function appears to capture routing, evaluation, or purpose.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "reserved_layer_notes": {
+      "type": "array",
+      "description": "Notes for possible L7-L8 influences. These must not be directly modeled unless visible as L1-L6 traces.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "connection_status": {
+      "type": "array",
+      "description": "Connection confirmation statuses.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "connection_confirmed",
+          "connection_unconfirmed",
+          "wrong_destination",
+          "absorbed_into_processing_form",
+          "insufficient_trace",
+          "out_of_scope_layer",
+          "insufficient_information",
+          "low_confidence_observation",
+          "pending"
+        ]
+      },
+      "minItems": 1
+    },
+    "observation_strength": {
+      "type": "string",
+      "description": "Strength of the HSS observation.",
+      "enum": ["high", "medium", "low", "pending"]
+    },
+    "evidence": {
+      "type": "array",
+      "description": "Evidence snippets, links, observations, or notes that support the connection decomposition.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["claim", "evidence"],
+        "properties": {
+          "claim": { "type": "string" },
+          "evidence": { "type": "string" },
+          "source": { "type": "string" }
+        }
+      },
+      "default": []
+    },
+    "uncertainty": {
+      "type": "array",
+      "description": "Weak points, unobserved traces, missing routing, or over-interpretation risks.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "next_observation": {
+      "type": "array",
+      "description": "What to observe next.",
+      "items": { "type": "string" },
+      "default": []
+    }
+  },
+  "$defs": {
+    "layer_note": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "observation": { "type": "string" },
+        "evidence": { "type": "string" },
+        "pending": { "type": "string" }
+      }
+    }
+  }
+}
