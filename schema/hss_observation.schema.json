@@ -7,6 +7,7 @@
   "additionalProperties": false,
   "required": [
     "target",
+    "observation_mode",
     "scope",
     "non_claims",
     "claimed_connection",
@@ -24,6 +25,17 @@
     "target": {
       "type": "string",
       "description": "Observation target."
+    },
+    "observation_mode": {
+      "type": "string",
+      "description": "Type of HSS observation target. Use design_proposal or hypothetical_case when the target has a decomposable design structure but lacks actual traces.",
+      "enum": [
+        "observed_case",
+        "design_proposal",
+        "hypothetical_case",
+        "historical_case",
+        "comparative_observation"
+      ]
     },
     "scope": {
       "type": "string",
@@ -65,13 +77,13 @@
     },
     "trace": {
       "type": "array",
-      "description": "Observable traces such as saves, quotes, logs, conversations, revisits, discomfort, repeated use, or residual memory.",
+      "description": "Observable traces such as saves, quotes, logs, conversations, revisits, discomfort, repeated use, or residual memory. For design_proposal and hypothetical_case, mark unobserved traces with actual_trace_unconfirmed in connection_status.",
       "items": { "type": "string" },
       "default": []
     },
     "routing": {
       "type": "array",
-      "description": "Observed or suspected routes through which the connection or trace flows.",
+      "description": "Observed or suspected routes through which the connection or trace flows. For design proposals, separate intended routing from actually observed routing.",
       "items": { "type": "string" },
       "default": []
     },
@@ -80,6 +92,18 @@
       "description": "Paths through which the target can return to its original or alternative contexts.",
       "items": { "type": "string" },
       "default": []
+    },
+    "design_structure": {
+      "type": "object",
+      "description": "For design_proposal or hypothetical_case: decomposed intended structure, separated from actual traces.",
+      "additionalProperties": false,
+      "properties": {
+        "decomposed": { "type": "boolean" },
+        "intended_connection": { "type": "string" },
+        "intended_routing": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "unconfirmed_actual_connection": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "unconfirmed_actual_trace": { "type": "array", "items": { "type": "string" }, "default": [] }
+      }
     },
     "layer_mapping": {
       "type": "object",
@@ -139,7 +163,7 @@
     },
     "connection_status": {
       "type": "array",
-      "description": "Connection confirmation statuses.",
+      "description": "Connection confirmation statuses. For design_proposal, use design_structure_decomposed for the design and actual_connection_unconfirmed / actual_trace_unconfirmed for missing real-world confirmation.",
       "items": {
         "type": "string",
         "enum": [
@@ -151,7 +175,10 @@
           "out_of_scope_layer",
           "insufficient_information",
           "low_confidence_observation",
-          "pending"
+          "pending",
+          "design_structure_decomposed",
+          "actual_connection_unconfirmed",
+          "actual_trace_unconfirmed"
         ]
       },
       "minItems": 1
