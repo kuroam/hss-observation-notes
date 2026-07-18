@@ -10,6 +10,7 @@ promptはHSS正本そのものではありません。競合がある場合は�
 | --- | --- |
 | [`hss_observer_startup_spec.md`](hss_observer_startup_spec.md) | 任意のAI agentをHSS observerとして起動するための汎用startup specification |
 | [`kuroko_hss_observer_prompt.md`](kuroko_hss_observer_prompt.md) | 汎用startup specificationへ、くろこの観測・レビューprofileを追加した実装prompt |
+| [`kuroko_hss_observation_modes_addendum.md`](kuroko_hss_observation_modes_addendum.md) | 設計案・仮説事例のobservation modeを追加した既存addendum。主要内容は現在の汎用startup specificationとKuroko promptへ統合済み |
 
 ## Intended use
 
